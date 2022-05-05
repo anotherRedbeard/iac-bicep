@@ -1,2 +1,3 @@
-# iac-bicep
-this is my collection of bicep templates that I use to refer to from time to time
+# Infrastructure As Code...As Bicep Code
+
+This is my collection of Bicep templates that I use to refer back to from time to time
